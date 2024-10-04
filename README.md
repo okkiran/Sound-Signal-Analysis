@@ -1,5 +1,5 @@
 
-# Sound Signal Analysis and Understanding of Musical Data
+# Basic Sound Signal Analysis and Musical Data Analysis with Spotify API 
 🎵 
 Data Analysis Term Project / Fall'23
 
