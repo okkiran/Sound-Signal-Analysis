@@ -1,7 +1,4 @@
-
-# Basic Sound Signal Analysis and Musical Data Analysis with Spotify API 
-🎵 
-Data Analysis Term Project / Fall'23
+🎵 Data Analysis Term Project / Fall'23
 
 **The project consists of two parts, with graphs visualized using R in both parts:**
 
